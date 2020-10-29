@@ -1,5 +1,8 @@
 const Discord = require("discord.js");
 const client = new Discord.Client();
+const token = require("token.js");
+
+
 
 client.on('ready', () => {
    console.log(`Wake UP!`);
@@ -90,4 +93,4 @@ client.on('message', message => {
 
 
 
-client.login('Token Here');
+client.login('');
