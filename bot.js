@@ -28,11 +28,6 @@ client.on('message', (message) => {
   }
 });
 
-client.on('message', (message) => {
-  if(message.content.startsWith('Dungla#8009  || @1v1')) {
-    message.channel.send("```Falta lvl Pa ```");
-  }
-});
 
 
 
@@ -95,4 +90,4 @@ client.on('message', message => {
 
 
 
-client.login('NzA0NDg2MTUwMjE1MDQxMDM1.XqeOgA.miVzidnVBuv9c4GneuwzkvRd5YE');
+client.login('Token Here');

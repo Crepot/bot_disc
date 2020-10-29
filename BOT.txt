@@ -1,5 +1,5 @@
-TOKEN: LiLfUc3dtTawi1p2YDiNLt3l2cGI3n8B
+TOKEN: 
 
-ID: 704486150215041035
+ID: 
 
-https://discordapp.com/api/oauth2/authorize?client_id=704486150215041035&permissions=0&scope=bot
+https://discordapp.com/api/oauth2/authorize?client_id=&permissions=0&scope=bot
