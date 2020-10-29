@@ -17,4 +17,5 @@ This is a simple Discord bot that I've made for fun.
 This needs to be written.
 For now you can search on internet for more information.
 Also check out the discord documentation.
+
 ```
