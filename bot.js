@@ -36,8 +36,7 @@ client.on('message', (message) => {
 
 
 
-//A partir de acá vamos a hacer todo lo vueno
-
+//A partir de acá vamos a hacer todo lo bueno
 
 client.on('message', message => {
   // Ignore messages that aren't from a guild
