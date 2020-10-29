@@ -1,5 +1,0 @@
-TOKEN: 
-
-ID: 
-
-https://discordapp.com/api/oauth2/authorize?client_id=&permissions=0&scope=bot
