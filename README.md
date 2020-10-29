@@ -1,5 +1,6 @@
 # bot_disc
-El QuesoBot de discord :)
+El QuesoBot de discord :).
+
 This is a simple Discord bot that I've made for fun.
 
 ## Usage:
