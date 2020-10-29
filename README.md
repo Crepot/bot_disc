@@ -18,5 +18,4 @@ This needs to be written.
 For now you can search on internet for more information.
 Also check out the discord documentation.
 
-
 ```
