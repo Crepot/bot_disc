@@ -9,6 +9,8 @@ This is a simple Discord bot that I've made for fun.
 
     Also you cand kick a person from the voice chat channel, to do that you need to type:
     -qkick @username
+    
+    more functions are comming
 
 ```
 ## Configuration:
